@@ -1,4 +1,4 @@
-# Course Goal App (Small Learning Project)
+# Course Goal App (Small Learning Project built with React)
 
 Practice styling react components and debug in react
 
